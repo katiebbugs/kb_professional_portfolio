@@ -1,6 +1,7 @@
 2. Advanced CSS Challenge: Professional Portfolio
 
 https://github.com/katiebbugs/kb_professional_portfolio
+
 https://katiebbugs.github.io/kb_professional_portfolio/
 
 On-the-Job Ticket: Create Website Resume
