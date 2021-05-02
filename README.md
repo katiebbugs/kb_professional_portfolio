@@ -1,7 +1,8 @@
 2. Advanced CSS Challenge: Professional Portfolio
 
+https://github.com/katiebbugs/kb_professional_portfolio
 
-
+https://katiebbugs.github.io/kb_professional_portfolio/
 
 On-the-Job Ticket: Create Website Resume
 
@@ -24,3 +25,5 @@ On-the-Job Ticket: Create Website Resume
     THEN I am presented with a responsive layout that adapts to my viewport
 
 Edits Made: created HTML and CSS code from scratch
+
+![professional-portfolio-screenshot](https://user-images.githubusercontent.com/79028196/112789200-c9411580-9019-11eb-929e-16e239ba9270.png)
